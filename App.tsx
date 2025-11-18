@@ -116,8 +116,8 @@ const App: React.FC = () => {
   return (
     <div className="bg-slate-50 min-h-screen text-slate-800 font-sans">
       <header className="bg-white shadow-md">
-        <div className="container mx-auto px-4 py-6">
-          <h1 className="text-3xl font-bold text-brand-red-800">
+        <div className="container mx-auto px-4 py-6 text-center">
+          <h1 className="text-3xl font-bold text-blue-800">
             Simulador de Juros Compostos
           </h1>
           <p className="text-slate-600 mt-1">
