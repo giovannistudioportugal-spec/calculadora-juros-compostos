@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Juros Compostos",
+  "description": "Uma calculadora de juros compostos avançada para simular investimentos. Permite visualizar os resultados em gráficos e tabelas detalhadas para entender o poder dos juros sobre juros.",
+  "requestFramePermissions": []
+}
